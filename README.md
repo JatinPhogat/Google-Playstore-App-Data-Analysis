@@ -40,7 +40,7 @@ The key objectives of this analysis are:
    ```
 3. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/google-play-analysis.git
+   git clone https://github.com/JatinPhogat/Google-Playstore-App-Data-Analysis
    ```
 4. Load the dataset into R:
    ```r
